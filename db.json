@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "firstName": "Dixita",
+      "lastName": "Pande",
+      "fatherName": "Bhupendrabhai",
+      "email": "dixita@gmail.com",
+      "address": "Mahadev nagar1",
+      "mobile": "8908765436",
+      "gender": "female",
+      "dob": "2007-01-30",
+      "country": "india",
+      "id": 4
+    },
+    {
+      "firstName": "Dhaval ",
+      "lastName": "Mistry",
+      "fatherName": "Narendra bhai",
+      "email": "dhaval@gmail.com",
+      "address": "Ahmedabad",
+      "mobile": "8985652412",
+      "gender": "male",
+      "dob": "2007-01-01",
+      "country": "canada",
+      "id": 5
+    },
+    {
+      "firstName": "Smit",
+      "lastName": "Pande",
+      "fatherName": "Bhupendra bhai",
+      "email": "smit@gmail.com",
+      "address": "mahadev nagar",
+      "mobile": "845212521",
+      "gender": "female",
+      "dob": "1994-04-24",
+      "country": "usa",
+      "id": 6
+    }
+  ]
+}
